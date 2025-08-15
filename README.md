@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name's Ilya, I'm a beginner in cybersecurity and currently preparing for a Capture The Flag competition with my team!
+- 🌱 I’m currently learning C++, bash, linux, cryptography, training algorithms
+
+- will be glad for any advice and proposes!
